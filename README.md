@@ -228,13 +228,6 @@ docker run -p 8501:8501 rag-doc-qa
 Note: `docker build` downloads both HF models during the image build
 step, so it needs internet access at build time, not just at runtime.
 
-### HuggingFace Spaces (free hosting)
-
-The YAML block at the top of this README is the Space configuration, so
-the repo can be pushed to a Space as-is. The demo index is built
-automatically on first start; models download on first use.
-Full walkthrough: see [DEPLOY.md](DEPLOY.md).
-
 ## Known limitations
 
 - `flan-t5-base` has a 512-token input limit, so with ~800-character chunks
