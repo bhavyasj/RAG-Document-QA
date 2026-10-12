@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Generated artifacts -- regenerate via chunking.py / build_index.py / evaluate.py
+data/chunks.json
+data/index/
+data/evaluation_results.json
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets / env
+.env
+.streamlit/secrets.toml
+
+# Python packaging / notebooks
+*.egg-info/
+.ipynb_checkpoints/
+.coverage

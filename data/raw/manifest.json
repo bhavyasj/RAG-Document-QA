@@ -1,0 +1,7 @@
+[
+  {"title": "Deutsche Bahn", "filename": "Deutsche_Bahn.txt", "source": "sample_seed_data"},
+  {"title": "InterCity-Express (ICE)", "filename": "ICE_train.txt", "source": "sample_seed_data"},
+  {"title": "Rail transport in Germany", "filename": "Rail_transport_in_Germany.txt", "source": "sample_seed_data"},
+  {"title": "S-Bahn", "filename": "S-Bahn.txt", "source": "sample_seed_data"},
+  {"title": "Regional-Express", "filename": "Regional-Express.txt", "source": "sample_seed_data"}
+]

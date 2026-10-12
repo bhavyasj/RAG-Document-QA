@@ -1,0 +1,102 @@
+[
+  {
+    "question": "When was Deutsche Bahn formed and from what merger?",
+    "expected_doc": "Deutsche_Bahn.txt",
+    "expected_keywords": ["1994", "Bundesbahn", "Reichsbahn"]
+  },
+  {
+    "question": "Is Deutsche Bahn privately owned or government owned?",
+    "expected_doc": "Deutsche_Bahn.txt",
+    "expected_keywords": ["federal government", "state-owned"]
+  },
+  {
+    "question": "What is the Generalsanierung renovation program?",
+    "expected_doc": "Deutsche_Bahn.txt",
+    "expected_keywords": ["Frankfurt", "Mannheim", "renovation"]
+  },
+  {
+    "question": "Does the Deutschlandticket cover ICE trains?",
+    "expected_doc": "Deutsche_Bahn.txt",
+    "expected_keywords": ["excludes", "long-distance"]
+  },
+  {
+    "question": "What year did ICE service begin in Germany?",
+    "expected_doc": "ICE_train.txt",
+    "expected_keywords": ["1991"]
+  },
+  {
+    "question": "What is the top speed of ICE trains?",
+    "expected_doc": "ICE_train.txt",
+    "expected_keywords": ["300", "kilometers"]
+  },
+  {
+    "question": "Which countries do ICE trains run to internationally?",
+    "expected_doc": "ICE_train.txt",
+    "expected_keywords": ["France", "Netherlands", "Belgium"]
+  },
+  {
+    "question": "What is the newest generation of ICE trains called?",
+    "expected_doc": "ICE_train.txt",
+    "expected_keywords": ["ICE 4", "2017"]
+  },
+  {
+    "question": "How many kilometers of track does Germany's rail network have?",
+    "expected_doc": "Rail_transport_in_Germany.txt",
+    "expected_keywords": ["33,000", "kilometers"]
+  },
+  {
+    "question": "Who subsidizes regional rail services in Germany?",
+    "expected_doc": "Rail_transport_in_Germany.txt",
+    "expected_keywords": ["federal states", "states"]
+  },
+  {
+    "question": "What is DB InfraGO responsible for?",
+    "expected_doc": "Rail_transport_in_Germany.txt",
+    "expected_keywords": ["infrastructure", "track", "signaling"]
+  },
+  {
+    "question": "Which private company competes with DB on long-distance routes?",
+    "expected_doc": "Rail_transport_in_Germany.txt",
+    "expected_keywords": ["FlixTrain"]
+  },
+  {
+    "question": "When did the Berlin S-Bahn network begin electrification?",
+    "expected_doc": "S-Bahn.txt",
+    "expected_keywords": ["1920s"]
+  },
+  {
+    "question": "What structural bottleneck exists in the Munich S-Bahn network?",
+    "expected_doc": "S-Bahn.txt",
+    "expected_keywords": ["tunnel", "trunk line"]
+  },
+  {
+    "question": "What is the VBB?",
+    "expected_doc": "S-Bahn.txt",
+    "expected_keywords": ["Berlin", "tariff", "transport association"]
+  },
+  {
+    "question": "How does Regional-Express differ from Regionalbahn?",
+    "expected_doc": "Regional-Express.txt",
+    "expected_keywords": ["fewer stops", "faster"]
+  },
+  {
+    "question": "Who operates Regional-Express trains in Germany?",
+    "expected_doc": "Regional-Express.txt",
+    "expected_keywords": ["DB Regio", "Transdev", "Netinera"]
+  },
+  {
+    "question": "Does the Deutschlandticket cover Regional-Express trains?",
+    "expected_doc": "Regional-Express.txt",
+    "expected_keywords": ["Deutschlandticket", "subscription"]
+  },
+  {
+    "question": "What rolling stock is commonly used on busy Regional-Express corridors?",
+    "expected_doc": "Regional-Express.txt",
+    "expected_keywords": ["double-decker"]
+  },
+  {
+    "question": "What was the on-time performance of DB long-distance trains in recent years?",
+    "expected_doc": "Deutsche_Bahn.txt",
+    "expected_keywords": ["60 percent", "punctuality"]
+  }
+]

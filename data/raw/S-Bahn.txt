@@ -1,0 +1,9 @@
+S-Bahn
+
+S-Bahn, short for Stadtschnellbahn or Stadtbahn depending on the city, refers to suburban and metropolitan rail systems found in many German-speaking cities, providing higher-frequency service than regional trains but typically running on shared or semi-dedicated infrastructure rather than the fully separate tunnels and tracks used by metro or U-Bahn systems. Major S-Bahn networks operate in Berlin, Hamburg, Munich, Stuttgart, Frankfurt's Rhine-Main region, and Rhine-Ruhr, among others, each run as a distinct operating entity even where Deutsche Bahn is the primary operator.
+
+The Berlin S-Bahn is among the oldest and most extensive, with roots dating back to electrification efforts in the 1920s, and today operates largely independently of DB's long-distance and regional services in terms of branding, although DB S-Bahn Berlin remains a subsidiary of Deutsche Bahn. The network was famously split during the Cold War, with services in West Berlin operated for a period by the West Berlin transit authority despite physically using East German-controlled track, an arrangement that ended only with reunification.
+
+Munich's S-Bahn network is notable for its central trunk line running through the city center, a single tunnel section beneath the main station that several routes converge onto, creating a structural bottleneck that has prompted long-running discussion about building a second tunnel, known as the second main line, to relieve congestion and improve reliability across the network.
+
+S-Bahn fares are generally integrated into regional transport association tariffs, such as the VBB in Berlin or the MVV in Munich, meaning a single ticket type often covers S-Bahn, U-Bahn, tram, and bus travel within a zone, and since 2023 the nationwide Deutschlandticket has covered S-Bahn travel as part of its flat-rate regional and local transport access across Germany.
