@@ -1,6 +1,6 @@
-# Deploying: GitHub + HuggingFace Spaces
+# Deploying: GitHub
 
-## Part A — Put the project on GitHub
+Put the project on GitHub
 
 1. On github.com click **New repository**. Name it e.g. `rag-document-qa`,
    set it **Public**, and leave "Add README / .gitignore / license"
