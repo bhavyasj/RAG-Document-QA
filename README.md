@@ -1,15 +1,3 @@
----
-title: RAG Document Q&A
-emoji: 🚆
-colorFrom: blue
-colorTo: gray
-sdk: streamlit
-python_version: "3.11"
-app_file: app/streamlit_app.py
-pinned: false
-short_description: RAG chatbot over German rail articles, any URL or PDF
----
-
 # RAG Document Q&A Assistant
 
 A retrieval-augmented generation (RAG) chatbot. By default it answers
